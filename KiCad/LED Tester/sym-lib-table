@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "108")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/LED Tester/108 Battery Holder/108.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-26_08-36-46")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/LED Tester/FuseHolder/2023-10-26_08-36-46.kicad_sym")(options "")(descr ""))
+  (lib (name "FSM6JH")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/LED Tester/FSM6JH/KiCad/FSM6JH.kicad_sym")(options "")(descr ""))
+)
